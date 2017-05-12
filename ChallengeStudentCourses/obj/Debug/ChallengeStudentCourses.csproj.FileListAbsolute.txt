@@ -1,0 +1,6 @@
+c:\users\ujwal gupta\documents\visual studio 2013\Projects\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll.config
+c:\users\ujwal gupta\documents\visual studio 2013\Projects\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll
+c:\users\ujwal gupta\documents\visual studio 2013\Projects\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.pdb
+c:\users\ujwal gupta\documents\visual studio 2013\Projects\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csprojResolveAssemblyReference.cache
+c:\users\ujwal gupta\documents\visual studio 2013\Projects\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.dll
+c:\users\ujwal gupta\documents\visual studio 2013\Projects\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.pdb
